@@ -1,5 +1,5 @@
 export(hello)
-export(calc)
+export(calcmean)
 export(randomplot)
 export(readcsvnew)
 export(printsummary)
