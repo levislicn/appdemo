@@ -1,7 +1,7 @@
 OpenCPU APP: appdemo
 ====================
   
-The purpose of this OpenCPU app is to demonstrate how to use the [opencpu.js](http://github.com/jeroenooms/opencpu.js) library for calling R functions from Javascript using OpenCPU.  
+The purpose of this OpenCPU app is to demonstrate how to use the [opencpu.js](http://github.com/jeroenooms/opencpu.js) library for calling R functions from Javascript using OpenCPU.  I just like to have a try.
 
 Cloud Demo
 ----------
