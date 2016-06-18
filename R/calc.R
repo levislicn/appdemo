@@ -4,7 +4,7 @@
 #' 
 #' @export
 #' @param myname your name. Required.
-calc <- function(data = ""){
+calcmean <- function(data = ""){
   if(data == ""){
     stop("No data!")
   }
